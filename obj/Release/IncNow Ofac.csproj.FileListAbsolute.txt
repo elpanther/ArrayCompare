@@ -1,0 +1,6 @@
+/Users/jeff/Desktop/incNow/IncNow OFAC/IncNow Ofac/bin/Release/IncNow Ofac.exe.config
+/Users/jeff/Desktop/incNow/IncNow OFAC/IncNow Ofac/bin/Release/IncNow Ofac.exe
+/Users/jeff/Desktop/incNow/IncNow OFAC/IncNow Ofac/bin/Release/IncNow Ofac.pdb
+/Users/jeff/Desktop/incNow/IncNow OFAC/IncNow Ofac/obj/Release/IncNow Ofac.csproj.CoreCompileInputs.cache
+/Users/jeff/Desktop/incNow/IncNow OFAC/IncNow Ofac/obj/Release/IncNow Ofac.exe
+/Users/jeff/Desktop/incNow/IncNow OFAC/IncNow Ofac/obj/Release/IncNow Ofac.pdb
